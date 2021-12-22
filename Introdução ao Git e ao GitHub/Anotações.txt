@@ -7,4 +7,6 @@ Comandos para realizar o upload das alterações no git:
 3- git commit -m "Inclusão"
 4- Enviar para o GitHub: git push origin main
 
-Adicionando.
+Houve um problema com o usuário global, basta setar os seguintes comandos:
+1- git --global user.email "edsomreis@gmail.com"
+2- git config --global user.name "edsonsreis"
