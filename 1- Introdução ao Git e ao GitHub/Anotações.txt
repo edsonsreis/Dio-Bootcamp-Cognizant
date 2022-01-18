@@ -3,7 +3,7 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 Comandos para realizar o upload das alterações no git:
 1- Checar o status: git status
-2- Versionar o código localmente: gita add .
+2- Versionar o código localmente: git add .
 3- git commit -m "Inclusão"
 4- Enviar para o GitHub: git push origin main
 
